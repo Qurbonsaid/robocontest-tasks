@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Robocontest tasks</string>
+    <string name="id_text">№</string>
+    <string name="name_text">Nomi</string>
+    <string name="comp_text">Qiyinligi</string>
+    <string name="type_text">Toifasi</string>
 </resources>
